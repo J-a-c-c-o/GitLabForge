@@ -1,0 +1,60 @@
+{
+  "parent_group_id": null,
+  "name": "Example_Course",
+  "id": 100,
+  "projects": [],
+  "subgroups": [
+    {
+      "parent_group_id": 100,
+      "name": "2026",
+      "id": 150,
+      "projects": [],
+      "subgroups": [
+        {
+          "parent_group_id": 150,
+          "name": "Pi1",
+          "id": 200,
+          "projects": [],
+          "subgroups": [
+            {
+              "parent_group_id": 200,
+              "name": "Project_Groups_10",
+              "id": 221493,
+              "projects": [
+                {
+                  "name": "Main",
+                  "id": 2214931,
+                  "import_url": null
+                },
+                {
+                  "name": "Template",
+                  "id": 2214932,
+                  "import_url": null
+                }
+              ],
+              "subgroups": null
+            },
+            {
+              "parent_group_id": 200,
+              "name": "Project_Groups_38",
+              "id": 221494,
+              "projects": [
+                {
+                  "name": "Main",
+                  "id": 2214941,
+                  "import_url": null
+                },
+                {
+                  "name": "Template",
+                  "id": 2214942,
+                  "import_url": null
+                }
+              ],
+              "subgroups": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

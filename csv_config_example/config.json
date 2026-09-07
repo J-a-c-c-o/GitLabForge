@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "root_group_id": null,
+    "default_access_level": 40,
+    "replace_spaces_with_underscore": true,
+    "username_column": "login_id",
+    "group_id_column": "canvas_group_id",
+    "group_name_column": "group_name",
+    "name_column": "name",
+    "project_templates": [
+      { "name": "Main", "import_url": null, "id_offset": 1 },
+      { "name": "Template", "import_url": null, "id_offset": 2 }
+    ]
+  },
+  "hierarchy": {
+    "name": "Example_Course",
+    "internal_id": 100,
+    "subgroups": [
+      {
+        "name": "2026",
+        "internal_id": 150,
+        "subgroups": [
+          {
+            "name": "Pi1",
+            "internal_id": 200,
+            "group_ids": [221493, 221494]
+          }
+        ]
+      }
+    ]
+  }
+}
